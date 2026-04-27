@@ -1,0 +1,3 @@
+hello!
+today i am studying how to handle file in python.
+today is my first lecture related to this on date 27/04/2026 and is going very good.
