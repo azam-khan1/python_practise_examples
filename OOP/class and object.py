@@ -7,6 +7,8 @@ class college:
 std = college("khan","233","ai")
 print(std.name,std.id,std.roll)
 
+#---------------------------------------------------------------------------------------------------
+
 class student:
     def __init__ (self,name,id):
         self.name = name
